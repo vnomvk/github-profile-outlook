@@ -1,0 +1,32 @@
+.app-wrapper {
+	margin: 0 auto;
+}
+
+.app-container {
+	text-align: center;
+}
+
+.app-wrapper .app-container .app-segment {
+	margin-right: -10px;
+}
+
+.app-wrapper .app-container .app-search-btn {
+	margin: 10px;
+}
+
+.profile-err-content, .profile-loading-content {
+	text-align: center;
+	padding: 24px;
+}
+
+.profile-container {
+	padding: 24px;
+}
+
+.profile-header {
+	text-align: center;
+}
+
+.profile-container .profile-header .profile-header-img {
+	display: inline;
+}
